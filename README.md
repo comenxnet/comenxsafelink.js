@@ -1,0 +1,2 @@
+# comenxsafelink.js
+file.js
